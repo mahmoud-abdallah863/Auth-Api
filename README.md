@@ -8,7 +8,6 @@ in [routes/posts.js](routes/posts.js)
 - JWT
 - Mongoose
 - Joi
-- Jsonwebtoken
 - Bcryptjs
 <br><br>
 > Use this wisely.
